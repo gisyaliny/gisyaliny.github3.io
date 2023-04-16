@@ -8,7 +8,7 @@ order: 4
 {: .prompt-tip } -->
 
 ## Introduction
-I am a Ph.D. Candidate in the [Department of Geospatial Information Sciences](https://epps.utdallas.edu/about/programs/geospatial-information-sciences/) at the [University of Texas at Dallas](https://www.utdallas.edu/) (德州大学达拉斯分校). My research interests include Geographic Information Science (GIS), Urban Environment, and Human Networks Modeling. More specifically, I am interested in applying geospatial big data, machine learning, and cloud computing (e.g. AWS) to study the interaction among built environments and social events, semantic segmentation of urban, navigation with map matching, etc. I am also passionate about developing helpful applications for local societies. Check out my [research](#research) for more information about what I am currently working on.
+I am a Ph.D. Candidate in the [Department of Geospatial Information Sciences](https://epps.utdallas.edu/about/programs/geospatial-information-sciences/) at the [University of Texas at Dallas](https://www.utdallas.edu/) (德州大学达拉斯分校). My research interests include Geographic Information Science (GIS), Urban Environment, and Human Networks Modeling. More specifically, I am interested in applying geospatial big data, machine learning, and cloud computing (e.g. AWS) to study the interaction among built environments and social events, semantic segmentation of urban, navigation with map matching, etc. I am also passionate about developing helpful applications for local societies. Check out my research for more information about what I am currently working on.
 
 **Education:**
 
