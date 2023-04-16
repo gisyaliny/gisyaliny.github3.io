@@ -30,7 +30,7 @@ I am a Ph.D. Candidate in the [Department of Geospatial Information Sciences](ht
 - 2022: [Esri EIP student of the Year Award](https://storymaps.arcgis.com/stories/546b6e82d701424b8bc2a9a0900786f7) - ESRI
 - 2021: [Ph.D. Research Small Award](../assets/files/awards/2021-Small-Grant.pdf) - University of Texas at Dallas
 - 2019: [Pioneer Student Research Grants](../assets/files/awards/2019-Pioneer.pdf) - University of Texas at Dallas
-- 2019: [AAG-UCGIS Summer School Travel Award](../assets/https://www.ucgis.org/summer-school-2019) - University Consortium for Geographic Information Science (UCGIS)
+- 2019: [AAG-UCGIS Summer School Travel Award](https://www.ucgis.org/summer-school-2019) - University Consortium for Geographic Information Science (UCGIS)
 - 2014: [Second Prize](../assets/files/awards/The-7th-Chinese-Computer-Design.jpg) - The 7th Chinese College Students Computer Design Competition, Nationwide
 - 2012: [Third Prize](../assets/files/awards/The-27th-Chongqing-Youngsters-Innovation.jpg) - The 27th Chongqing Youngsters Innovation & Invention Competition, Province-wide
 - 2012: Science & Technology Innovation Award, Youngsters in and out of Class Competition, Province-wide
